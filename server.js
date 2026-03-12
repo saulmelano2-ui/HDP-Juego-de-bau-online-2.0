@@ -16,7 +16,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // ── Card Decks ──────────────────────────────────────────────────────────────
 const BLACK_CARDS = [
-"Soy el genio de la lámpara y te concederé tres deseos, ¿cuál es el primero?__________",
+"Soy el genio de la lámpara y te concederé tres deseos, ¿cuál es el primero? __________",
 "Mis viejos se unieron a una secta nueva que adora __________ .",
 "Según la Organización Mundial de la Salud no hay nada más peligroso que __________ .",
 "Llegué tarde porque había un piquete a favor de __________ .",
