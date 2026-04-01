@@ -204,9 +204,9 @@ html, body {
 /* Cat SVG */
 .ogt-cat {
   position: absolute;
-  bottom: -150px; /* ajustá acá */
-  right: -160px;
-  width: 380px; /* fijo */
+  bottom: 10px; /* ajustá acá */
+  right: -90px;
+  width: 225px; /* fijo */
   z-index: 1;
   filter: drop-shadow(-8px 0 20px rgba(245,166,35,0.15));
 }
